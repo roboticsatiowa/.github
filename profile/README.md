@@ -1,8 +1,6 @@
 # Robotics at Iowa
 ![Banner](https://github.com/roboticsatiowa/.github/blob/main/profile/IowaBanner.jpg)
 
-Welcome to the official repository of Robotics at Iowa! We're a dedicated group of students from Iowa, focused on our passion for robotics and engineering
-
 ## About Us
 
 Robotics at Iowa is a private organization with a singular mission: to design, build, and operate a Mars rover for challenging competitions. Our team is composed of talented individuals who share a common interest in robotics and space exploration. We come from a variety of backgrounds not limited to engineering
