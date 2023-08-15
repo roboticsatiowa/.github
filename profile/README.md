@@ -21,6 +21,6 @@ If you're interested in becoming a part of our team, here's how you can join us:
 
 Stay updated with our progress and team activities through our social media channels:
 
-- Instagram: [@roboticsatiowa](https://www.instagram.com/robotics_at_iowa)
+- Instagram: [@robotics_at_iowa](https://www.instagram.com/robotics_at_iowa)
 
 For inquiries, you can reach out to us via email: [contact@roboticsatiowa.org](mailto:contact@roboticsatiowa.org)
