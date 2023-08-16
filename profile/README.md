@@ -8,7 +8,7 @@ Robotics at Iowa is a private organization with a singular mission: to design, b
 
 Our main project revolves around building a Mars rover. This rover is meticulously crafted to excel in competitions that challenge its capabilities in navigation, autonomy, and adaptability to the harsh conditions of extraterrestrial terrains.
 
-![Mars Rover](./profile/Robotics_Picture_1.png)
+![Mars Rover](./profile/Robotics_Photo_1.png)
 
 ## How to Join
 
