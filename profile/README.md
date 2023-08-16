@@ -1,4 +1,4 @@
-![Banner](./Robotics_Banner.jpg)
+![Banner](./profile/Robotics_Banner.jpg)
 
 ## About Us
 
