@@ -1,5 +1,4 @@
-# Robotics at Iowa
-![Banner](https://github.com/roboticsatiowa/.github/blob/main/profile/IowaBanner.jpg)
+![Banner](./Robotics_Banner.jpg)
 
 ## About Us
 
