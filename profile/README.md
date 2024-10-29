@@ -1,25 +1,17 @@
-![Banner](./profile/Robotics_Banner.jpg)
+![Banner](https://github.com/roboticsatiowa/Documents-and-Resources/blob/main/Media/Banner.png?raw=true)
 
 ## About Us
 
-Robotics at Iowa is a private organization with a singular mission: to design, build, and operate a Mars rover for challenging competitions. Our team is composed of talented individuals who share a common interest in robotics and space exploration. We come from a variety of backgrounds not limited to engineering
+Robotics at Iowa is an engineering club at the University of Iowa. We accept students of a wide background not limited to engineers. We even take some non-students. Our primary mission is to accelerate learning through hands on projects in the field of robotics. We are an entirely student led organization. This means no guard rails and no guidance. We embrace this challenge because it means every single success (and faliure) is purely the result of our own hard work and dedication
 
 ## Project
 
-Our main project revolves around building a Mars rover. This rover is meticulously crafted to excel in competitions that challenge its capabilities in navigation, autonomy, and adaptability to the harsh conditions of extraterrestrial terrains.
-
-<!-- ![Mars Rover](./profile/Robotics_Photo_1.png) -->
+Our primary project is a mock mars rover of approximately 50 Kg which competes in rover challenges. Currently, we attend the Canadian International Rover Challenge (CIRC) every year in August. The team is working very hard to broaden the rovers capabilities so that it may compete in even more challenging competitions.
 
 ## How to Join
 
-If you're interested in becoming a part of our team, here's how you can join us:
+The best way to get involved is to just show up. We welcome everyone regardless of age, skill level, or academic background.
 
-1. [Placeholder: Contact information or application process]
-
-## Connect With Us
-
-Stay updated with our progress and team activities through our social media channels:
-
-- Instagram: [@robotics_at_iowa](https://www.instagram.com/robotics_at_iowa)
-
-For inquiries, you can reach out to us via email: [contact@roboticsatiowa.org](mailto:contact@roboticsatiowa.org)
+##### General Meeting Times:
+- Thursday, 6:30pm in Chemistry Building W105
+- Sunday, 1:30pm in Chemistry Building W105
