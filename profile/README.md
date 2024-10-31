@@ -15,3 +15,9 @@ The best way to get involved is to just show up. We welcome everyone regardless 
 ##### General Meeting Times:
 - Thursday, 6:30pm in Chemistry Building W105
 - Sunday, 1:30pm in Chemistry Building W105
+
+## Contact info
+
+Systems Leads
+  - Ethan Holter (Software) | eholter@uiowa.edu
+  - Ava Reed (Hardware) | TBD@uiowa.edu
